@@ -1,7 +1,7 @@
 // Jason McAuslan
 // 301279046
 // /routes/books.js
-// COMP229-S2023-MidTerm-301279046
+// Favourite Book List App
 
 // modules required for routing
 let express = require('express');
