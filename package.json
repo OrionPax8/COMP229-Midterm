@@ -45,14 +45,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/OrionPax8/COMP229-Midterm"
   },
   "keywords": [
     "NodeJS",
     "ExpressJS",
     "EJS"
   ],
-  "author": "Your Name Goes Here",
+  "author": "Jason McAuslan",
   "license": "ISC",
   "bugs": {
     "url": ""
